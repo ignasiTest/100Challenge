@@ -1,2 +1,2 @@
 # 100Challenge
-![100: 100 Days of Swift Challenge](banner-hws.png)
+![100 Days of Swift Challenge](resources/images/100DaysOfSwift.png)
